@@ -1,0 +1,26 @@
+{
+  "name": "threejs-journey-exercise",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5",
+    "vite-plugin-restart": "^0.4.2"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "gsap": "^3.13.0",
+    "lil-gui": "^0.20.0",
+    "node": "^24.2.0",
+    "three": "^0.174.0"
+  },
+  "description": "## Setup Download [Node.js](https://nodejs.org/en/download/). Run this followed commands:",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
